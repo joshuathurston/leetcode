@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/find-the-difference/description/?envType=daily-question&envId=2023-09-25
-
+// lets add some notes
 class Solution {
 public:
     char findTheDifference(string s, string t) {
